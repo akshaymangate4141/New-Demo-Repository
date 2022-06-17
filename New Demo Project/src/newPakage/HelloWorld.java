@@ -7,8 +7,14 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		
+		method1();
+		
 	}
 	
+	public static void method1()
+	{
+		System.out.println("This Is My Static Method");
+	}
 	
 	
 	
